@@ -10,7 +10,7 @@ Hi I'm Natakit
 
 ---
 
-## 🚀 Project
+## 🚀 About ME
 
 - 🎓 Computer Science Student
 - 💻 Interested in Backend & Game Development
