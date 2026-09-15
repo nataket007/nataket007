@@ -28,11 +28,6 @@ Hi I'm Natakit
 
 </p>
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nataket007&show_icons=true&theme=github_dark)
-
-
 ---
 
 ## 🔥 Streak
